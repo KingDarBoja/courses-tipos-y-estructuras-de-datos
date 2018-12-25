@@ -1,4 +1,7 @@
 title: Tipos y Estructuras de Datos
-description: Course description goes here.
+description: Ya conoces algunos tipos de datos que maneja Python como las cadenas de caracteres, los booleanos, los números y las listas. Aún así, Python tiene otras estructuras de datos más complejos como son las listas, tuplas, diccionarios y conjuntos;  las cuales agrupan los tipos más simples. Esto te permitirá resolver problemas reales de manera más eficiente con ayuda de los métodos y operadores que ya vienen implementadas con estas estructuras. Una vez terminado el curso, estarás en la capacidad de resolver cualquier reto de la forma "Pythonista" y aprender tópicos más avanzados como las Series y Tablas (DataFrame) del paquete Pandas.
+university: DataCamp
 programming_language: python
+difficulty_level: 1
+time_needed: 4 horas
 from: python-base-prod:v1.0.2
